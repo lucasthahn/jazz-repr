@@ -1,0 +1,7 @@
+*.pt
+weights/*
+__pycache__/
+.DS_Store
+*.swp
+.ipynb_checkpoints/
+

@@ -1,0 +1,19 @@
+name: jazz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - pip
+  - matplotlib
+  - jupyterlab
+  - pip:
+    - music21
+    - torch
+    - torchvision
+    - bpython
+    - midi2audio
+    - mido
+    - tables
